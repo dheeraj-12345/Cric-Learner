@@ -19,3 +19,5 @@ Thus, Cric-Learners is an effective platform for individuals, cricket experts an
 
 
 <img align="left" width="100%" height="600px" src="public/Home/profile1.png">
+
+To visit the web-site: https://cric-learners.herokuapp.com/
