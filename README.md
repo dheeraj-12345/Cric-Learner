@@ -1,4 +1,4 @@
-# TREKTHEHILL-Vedanshtandon
+# Cric-Learners-Vedanshtandon
 Cric-Learners is an online platform to provide free basic guidelines, techniques and tips to individuals who have an immense passion and interest  for cricket. Cricket is our Religion.
 
 <img align="left" width="47%" height="600px" src="public/Home/profile.jpg">
